@@ -19,7 +19,7 @@ const particleOptions = {
   particles: {
     "move": {
       "enable": true,
-      "speed": 8,
+      "speed": 3,
       "direction": "none",
       "random": true,
       "straight": false,
@@ -32,7 +32,7 @@ const particleOptions = {
       }
     },
     number: {
-      value: 50,
+      value: 80,
       density: {
         enable: true,
         value_area: 800,
@@ -52,7 +52,7 @@ class App extends React.Component {
       isSignedIn: false,
     }
   }
-  
+
   calculateFaceLocation = (data) => {
     const faceDetected = data.outputs[0].data.regions[0].region_info.bounding_box;
     const image = document.getElementById('inputimage');
