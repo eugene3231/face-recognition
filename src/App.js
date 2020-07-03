@@ -101,7 +101,7 @@ class App extends React.Component {
       })
       .then(response => response.json())
       .then(response => {
-        if (response) {
+        if (response) { 
           fetch('https://radiant-beyond-48789.herokuapp.com/image', {
             method: 'put',
             headers: {'Content-Type': 'application/json'},
