@@ -14,7 +14,7 @@ const particleOptions = {
   particles: {
     "move": {
       "enable": true,
-      "speed": 3,
+      "speed": 6,
       "direction": "none",
       "random": true,
       "straight": false,
@@ -27,7 +27,7 @@ const particleOptions = {
       }
     },
     number: {
-      value: 40,
+      value: 50,
       density: {
         enable: true,
         value_area: 800,
