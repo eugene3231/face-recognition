@@ -5,7 +5,7 @@
 ## About
 a fully responsive react.js web app that uses Clarifai ML API to identify faces on a given image.
 
-features register, signin/signout functions.
+features register, signin, signout and detect faces on images functions.
 
 this is the front-end for the app, the back-end: [smart-brain-api](https://github.com/eugene3231/smart-brain-api).
 ### Used
