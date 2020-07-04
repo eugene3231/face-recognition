@@ -1,6 +1,6 @@
 # smart-brain
 
-[Link to app on Heroku](https://smart-brain-eugene3231.herokuapp.com/)
+[Link to app on heroku](https://smart-brain-eugene3231.herokuapp.com/)
 
 ## About
 a fully responsive react.js web app that uses Clarifai ML API to identify faces on a given image.
