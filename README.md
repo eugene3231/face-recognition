@@ -1,4 +1,4 @@
-## smart-brain
+# smart-brain
 
 [Link to app on Heroku](https://smart-brain-eugene3231.herokuapp.com/)
 
