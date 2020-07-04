@@ -1,6 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## smart-brain
+
+[Link to app on Heroku](https://smart-brain-eugene3231.herokuapp.com/)
+
+## About
+a fully responsive react.js web app that uses Clarifai ML API to identify faces on a given image.
+
+features register, signin/signout functions.
+
+this is the front-end for the app, the back-end for the app can be found here: [smart-brain-api](https://github.com/eugene3231/smart-brain-api).
+### Used
+* HTML5
+* CSS3
+* React.js
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
